@@ -7,4 +7,6 @@ This report focuses on the performance comparison of an image-based fashion reco
 The rest of the report is structured as follows: first, a literature review discusses existing work in this area, providing a foundation for understanding the state-of-the-art approaches. The proposed work and its implementation are then detailed, followed by a description of the experiments investigating how data quality affects the results. The Results and Discussion section presents an analysis of the findings, and the Conclusion highlights key insights, limitations, and potential areas for future work. The report concludes with a division of tasks to outline the contributions of team members.
 
 
+# Aproach 
+
 <img width="679" alt="Screenshot 2025-03-13 at 7 13 35 PM" src="https://github.com/user-attachments/assets/51258638-d2c1-41cd-9189-59b58020d420" />
